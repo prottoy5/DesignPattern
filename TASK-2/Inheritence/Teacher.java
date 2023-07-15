@@ -1,5 +1,5 @@
 
-public class Teacher extends Human {
+public class Teacher extends Human {          //Inheritance
     
     public void givesUsALesson() {
 

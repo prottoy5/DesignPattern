@@ -1,5 +1,5 @@
 
-public class Singer extends Human {
+public class Singer extends Human {           //Inheritance
 
     public void singASong() {
 

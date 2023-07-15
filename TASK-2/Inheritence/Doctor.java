@@ -1,5 +1,5 @@
 
-public class Doctor extends Human {
+public class Doctor extends Human {         //Inheritance
 
     public void howToLoseFat() {
 

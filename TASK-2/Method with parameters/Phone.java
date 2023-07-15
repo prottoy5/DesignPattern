@@ -1,15 +1,15 @@
 
 
-public class Phone {
+public class Phone {        //class
 
     String model = "iphone 14 pro max";
 
-    public void call() {
+    public void call() {       //method()
 
         System.out.println("calling......unknown");
     }
 
-    public void call(int number) {    
+    public void call(int number) {         //method() with parameter
 
         System.out.println("calling......" + number);
     }
