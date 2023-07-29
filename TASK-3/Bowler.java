@@ -16,3 +16,4 @@ public class Bowler extends Cricketer {
         System.out.println(getName() + " is bowling and has taken " + wicketsTaken + " wickets.");
     }
 }
+
