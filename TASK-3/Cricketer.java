@@ -1,3 +1,4 @@
+//OpenClosed
 public class Cricketer {
     private String name;
     private int age;
