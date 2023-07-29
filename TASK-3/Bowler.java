@@ -13,7 +13,7 @@ public class Bowler extends Cricketer {
 
     @Override
     public void play() {
-        System.out.println(getName() + " is bowling and has taken " + wicketsTaken + " wickets.");
+        System.out.println(getName() + " is bowling and has taken " + wicketsTaken + " wickets."); //
     }
 }
 
