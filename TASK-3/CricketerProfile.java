@@ -1,3 +1,4 @@
+//OpenClosed
 public class CricketerProfile {
     public static void main(String[] args) {
         Cricketer cricketer1 = new Cricketer("Generic Cricketer", 25);
