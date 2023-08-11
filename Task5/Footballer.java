@@ -1,16 +1,18 @@
-//Dependency Inversion
+// Dependency Inversion
 interface Footballer {
     void playFootball();
 }
 
-class ProfessionalFootballer implements Footballer { // Concrete implementation of the Footballer interface
+// Concrete implementation of the Footballer interface
+class ProfessionalFootballer implements Footballer { 
     @Override
     public void playFootball() {
         System.out.println("Professional footballer is playing football.");
     }
 }
 
-class Coach { // High-level class that depends on the Footballer interface
+// High-level class that depends on the Footballer interface
+class Coach { 
     private Footballer footballer;
 
     public Coach(Footballer footballer) {
