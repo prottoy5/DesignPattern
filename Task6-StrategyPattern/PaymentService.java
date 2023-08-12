@@ -1,3 +1,5 @@
+//Create a PaymentService class that uses the selected payment strategy.
+
 public class PaymentService {
     private PaymentStrategy paymentStrategy;
 

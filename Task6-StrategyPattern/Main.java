@@ -1,3 +1,5 @@
+//Use the Strategy Pattern to make payments.
+
 public class Main {
     public static void main(String[] args) {
         PaymentService cart = new PaymentService();

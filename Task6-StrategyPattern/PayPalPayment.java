@@ -1,3 +1,5 @@
+//Create concrete classes that implement the PaymentStrategy interface.
+
 public class PayPalPayment implements PaymentStrategy {
     private String email;
 
