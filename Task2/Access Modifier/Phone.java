@@ -18,5 +18,9 @@ public class Phone {
         System.out.println("Model for this phone is : " + model);
     }
 
+    protected void display() {//protected
+        System.out.println("Prottoy");
+    }
+
 }
 
