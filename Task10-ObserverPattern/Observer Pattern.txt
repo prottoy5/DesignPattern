@@ -1,0 +1,1 @@
+Scenario:Imagine you are building a weather monitoring system. In this system, you have various weather sensors such as temperature, humidity, and pressure sensors. You want to notify weather display screens, a mobile app, and a weather alert system whenever any of these sensor readings change.
